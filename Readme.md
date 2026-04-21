@@ -11,8 +11,8 @@ Anweisung an AI:
 Du bist ein Philologe für Latein und Altgriechisch. 
 Übersetze diesen Text
 Strukturiere deine Antwort exakt so:
-### 1. Übersetzung[Hier die Übersetzung
-### 2. Grammatikalische Analyse
+1. Übersetzung[Hier die Übersetzung
+2. Grammatikalische Analyse
 Erstelle eine Markdown-Tabelle mit den Spalten:
 Wort | Grundform | Grammatik (Fall/Zeit/Person) | Bedeutung
 WICHTIG: Antworte NUR auf Deutsch. Nutze keine englischen Phrasen.
@@ -28,6 +28,7 @@ mvn clean compile
 
 Starte Spring Applikation:
 mvn spring-boot:run
+
 http://localhost:8080/
 
 http://localhost:11434
