@@ -1,0 +1,6 @@
+languages\translator\greek\GreekTranslatorChat2.class
+languages\translator\latin\LatinTranslatorChat.class
+languages\translator\latin\LatinTranslatorChat2.class
+latin\translator\App.class
+languages\translator\TranslatorApplication.class
+languages\translator\TranslatorController.class
